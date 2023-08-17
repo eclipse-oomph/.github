@@ -6,6 +6,6 @@ The Eclipse Oomph&trade; project provides tools based on extensible frameworks, 
 
 - [Oomph](https://github.com/eclipse-oomph/oomph)
 
-The Eclipse Oomph project also provides infrastructure for making available p2 content for simplifying the release engineering of Eclipse-base projects.
+The Eclipse Oomph project also provides infrastructure for making available p2 content for simplifying the release engineering of Eclipse-based projects.
 
 - [Oomph Incubator](https://github.com/eclipse-oomph/oomph.incubator)
